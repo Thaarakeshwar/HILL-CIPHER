@@ -6,7 +6,9 @@
 To write a C program to implement the hill cipher substitution techniques.
 
 Name:Thaarakeshwar
+
 Register Number: 212225040466
+
 Date: 28-10-2026
 
 ## DESCRIPTION:
